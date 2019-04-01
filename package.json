@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmiDvor/Meadowlark.git"
+  },
+  "author": "Dmidvor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmiDvor/Meadowlark/issues"
+  },
+  "homepage": "https://github.com/DmiDvor/Meadowlark#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
